@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Techs</p>
+<p align="left">My Skills</p>
 
 ###
 
