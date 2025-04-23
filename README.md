@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Atualmente cursando o 4° período em Análise e desenvolvimento de Sistemas, no Centro Universitário Tiradentes. <br><br>- Front-End Development<br>- UX/UI Designer</p>
+<p align="left">Atualmente cursando o 5° período em Análise e desenvolvimento de Sistemas, no Centro Universitário Tiradentes. <br><br>- Front-End Development<br>- UX/UI Designer</p>
 
 ###
 
